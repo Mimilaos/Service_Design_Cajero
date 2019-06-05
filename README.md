@@ -25,6 +25,12 @@ Rediseñar la experiencia de un cajero automático basandonos en lo siguiente:
 
 ## Definición del problema
 
-Para acotar mas nuestra hipótesis decidimos usar la herramienta 4Ws
+Para acotar mas nuestra hipótesis decidimos usar la herramienta 4Ws:
 
 ![Herramienta 4Ws](https://i.ibb.co/s6X1dsc/Captura-de-pantalla-2019-06-04-a-la-s-21-31-26.png)
+
+También mapeamos quienes eran todos los participantes dentro del sistema de un cajero automático con la herramienta de Stakeholder:
+
+![Stakeholder](https://i.ibb.co/vJ219s5/Captura-de-pantalla-2019-06-04-a-la-s-21-36-21.png)
+
+
