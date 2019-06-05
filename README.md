@@ -41,3 +41,9 @@ Y para conocer más a nuestros usuarios realizamos 3 encuestas a profundidad con
 Teniendo recaudada ya esta información pudimos elaborar nuestra User Persona a quien estamos dirigiendo nuestro proyecto: 
 
 ![Martín Rios](https://i.ibb.co/9sL3jbN/Captura-de-pantalla-2019-06-04-a-la-s-21-58-58.png)
+
+Y como parte final de nuestra definición del problema realizamos un Journey Map para comprender el tipo de emociones a las que se enfrenta nuestro usuario al hacer uso del cajero:
+
+![Journey Map](https://i.ibb.co/8rnMLRt/Captura-de-pantalla-2019-06-04-a-la-s-22-04-41.png)
+
+## Ideación
