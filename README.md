@@ -13,7 +13,9 @@ El inventor Luther George Simjian patentó el prototipo de una máquina que, col
 
 Casi treinta años después, el británico John Sheperd-Barron inventó un modelo de cajero automático, precursor de los cajeros actuales. Sheperd-Barron comentó a su esposa la idea de crear una clave de seguridad con seis dígitos para la máquina que estaba ideando. Ella contestó que se le complicaba recordar seis números y lo dejó en cuatro dígitos. Así fue como nació el Número de Identificación Personal o NIP de 4 números, que se convirtió en un estándar mundial.
 
-* 1967
+* 1972
 
-Se instala el primer cajero automático, creado por Sheperd-Barron y comercializado por la firma británica De La Rue. Fue situado en una sucursal del Banco Barclays e inaugurado el 27 de junio.
+Llega el primer cajero automático a México a través de Banamex. También fue el primero en América Latina.
+
+
 
