@@ -34,3 +34,10 @@ También mapeamos quienes eran todos los participantes dentro del sistema de un 
 ![Stakeholder](https://i.ibb.co/vJ219s5/Captura-de-pantalla-2019-06-04-a-la-s-21-36-21.png)
 
 
+Y para conocer más a nuestros usuarios realizamos 3 encuestas a profundidad con las que elaboramos un Empaty Map:
+
+![img](https://i.ibb.co/KxGd4Ht/Captura-de-pantalla-2019-06-04-a-la-s-21-47-25.png)
+
+Teniendo recaudada ya esta información pudimos elaborar nuestra User Persona a quien estamos dirigiendo nuestro proyecto: 
+
+![Martín Rios](https://i.ibb.co/9sL3jbN/Captura-de-pantalla-2019-06-04-a-la-s-21-58-58.png)
