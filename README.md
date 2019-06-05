@@ -17,5 +17,8 @@ Casi treinta años después, el británico John Sheperd-Barron inventó un model
 
 Llega el primer cajero automático a México a través de Banamex. También fue el primero en América Latina.
 
+## Reto
 
+Rediseñar la experiencia de un cajero automático basandonos en la siguiente hipótesis: 
 
+![Hipótesis](https://i.ibb.co/5GnnV8R/Captura-de-pantalla-2019-06-04-a-la-s-21-14-59.png)
