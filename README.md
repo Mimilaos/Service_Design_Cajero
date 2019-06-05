@@ -19,6 +19,6 @@ Llega el primer cajero automático a México a través de Banamex. También fue 
 
 ## Reto
 
-Rediseñar la experiencia de un cajero automático basandonos en la siguiente hipótesis: 
+Rediseñar la experiencia de un cajero automático basandonos en lo siguiente: 
 
 ![Hipótesis](https://i.ibb.co/5GnnV8R/Captura-de-pantalla-2019-06-04-a-la-s-21-14-59.png)
