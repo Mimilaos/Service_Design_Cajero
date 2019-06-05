@@ -2,3 +2,18 @@
 El cajero automático forma parte de la cotidianeidad de los mexicanos, se estima que en el país cerca de 26 millones de mexicanos utilizan esta herramienta. Te has preguntado: ¿quién fue su creador?, o ¿en qué fecha surgió?
 
 Hace cincuenta años, si una persona necesitaba dinero en efectivo tenía que ir al banco. Y para eso, debía ir a la sucursal más cercana en horario de oficina. Ni un minuto más tarde. De lo contrario se quedaba con los bolsillos vacíos. Y eso es lo que le sucedió al británico John Sheperd-Barron, el inventor del cajero automático.
+
+* 1939 
+
+El inventor Luther George Simjian patentó el prototipo de una máquina que, colocada en la pared de un banco, permitiera realizar transacciones financieras. City Bank of New York apoyó el proyecto y puso en marcha una prueba piloto de seis meses. Sin embargo, la iniciativa no funcionó por falta de demanda.
+
+![Luther George Simjian](http://images.computerhistory.org/revonline/images/500004557-03-01.jpg?w=600)
+
+* 1965
+
+Casi treinta años después, el británico John Sheperd-Barron inventó un modelo de cajero automático, precursor de los cajeros actuales. Sheperd-Barron comentó a su esposa la idea de crear una clave de seguridad con seis dígitos para la máquina que estaba ideando. Ella contestó que se le complicaba recordar seis números y lo dejó en cuatro dígitos. Así fue como nació el Número de Identificación Personal o NIP de 4 números, que se convirtió en un estándar mundial.
+
+* 1967
+
+Se instala el primer cajero automático, creado por Sheperd-Barron y comercializado por la firma británica De La Rue. Fue situado en una sucursal del Banco Barclays e inaugurado el 27 de junio.
+
