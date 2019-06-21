@@ -96,13 +96,13 @@ Para ello utilizamos un Customer Journey Map,con la cual podemos conocer, medir 
 
 ![Customer Journey Map](https://i.ibb.co/PwjMmmD/Captura-de-Pantalla-2019-06-05-a-la-s-0-39-07.png)
 
-Al analizar el proceso que realiza el adulto mayor en su proceso de llegar y realizar un proceso en el cajero del banco de su preferencia pudimos concluir que el máximo punto de dolor y el que genera mayores inconveniente para ellos y los demas usuarios es el no poder utilizar el cajero de manera fluida y si se encuentra con algún problema no contar con la asistencia adecuada que no solo lo ayude a realizar el proceso en específico, es importante que esta asistencia los ayude a reducir la brecha tecnológica a la que se enfrentan a su día a día, en este caso en específico es en orientarlos y enseñarles los nuevos procesos así como los beneficios y servicios que pueden utilizar por medio de los sistemas automatizados como un cajero electrónico. 
+Al analizar el proceso que realiza el adulto mayor, al llegar y realizar una transacción en el cajero del banco de su preferencia, pudimos concluir que el máximo punto de dolor y el que genera mayores inconveniente para ellos y los demas usuarios es el no poder utilizar el cajero de manera inmediata o ágil, y si se encuentra con algún problema no contar con la asistencia adecuada, que no solo lo ayude a realizar el proceso en específico, es importante que esta asistencia los ayude a reducir la brecha tecnológica a la que se enfrentan en su día a día, en este caso en específico es en orientarlos y enseñarles los nuevos procesos así como los beneficios y servicios que pueden utilizar por medio de los sistemas automatizados como un cajero electrónico (compra y pago de servicios, transacciones, etc). 
 
 ![fotografía de adultos mayores usando cajero](https://i.ibb.co/n63kFJJ/5f6c8493-04d1-432e-8e7b-6056f20fb3a7.jpg)
 
 ## Maqueta 
 
-Por medio de una maqueta creamos una simulación del proceso del servicio de cajeros, ya que el servicio es algo intangible buscamos la manera de materializarlo por medio de un simulador (maqueta) en el que los usuarios (adultos mayores) pudieran explicarnos de manera amigable como tangible el proceso y las alternativas que podríamos ofrecerles para aliviar sus dolores.
+Por medio de una maqueta creamos una simulación del proceso del uso de cajeros, ya que el diseño de un servicio es algo intangible buscamos la manera de materializarlo por medio de un simulador (maqueta) en el que los usuarios (adultos mayores) pudieran explicarnos de manera esquematica su proceso y las alternativas que podríamos ofrecerles para aliviar sus dolores.
 
 ![fotografía de maqueta](https://i.ibb.co/jGm6x17/b211f2a5-0961-4af7-8055-3ceadd8b8ba0.jpg)
 
